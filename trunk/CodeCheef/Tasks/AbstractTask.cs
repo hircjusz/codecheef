@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CodeCheef
+namespace CodeCheef.Tasks
 {
     public interface AbstractTask
     {
