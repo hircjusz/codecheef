@@ -1,4 +1,5 @@
-﻿
+﻿http://www.codechef.com/problems/TABUS
+
      All submissions for this problem are available.
 
 According to many researches, people can stand on a bus for several hours, but waiting for a bus for more than 30 minutes at a bus station can make us exhausted. The Chef is a perfect example for this fact. He always tries to reduce the longest period of time of waiting for a bus. Therefore, optimizing the traveling plan for him is far from an easy task.
