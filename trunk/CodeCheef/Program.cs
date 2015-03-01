@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using CodeCheef.Tasks;
 
 namespace CodeCheef
 {
@@ -9,7 +10,8 @@ namespace CodeCheef
     {
         static void Main(string[] args)
         {
-
+            var gasStation = new GasStation();
+            gasStation.Init();
 
 
         }
