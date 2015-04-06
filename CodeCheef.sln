@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCheef", "CodeCheef\CodeCheef.csproj", "{8F199F85-875D-4ECC-AD9F-175124D34C66}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{1D4DC358-D0B8-4D0B-8A0A-973774569674}"
@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Local.testsettings = Local.testsettings
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
@@ -45,6 +47,16 @@ Global
 		{1D4DC358-D0B8-4D0B-8A0A-973774569674}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{1D4DC358-D0B8-4D0B-8A0A-973774569674}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{1D4DC358-D0B8-4D0B-8A0A-973774569674}.Release|x86.ActiveCfg = Release|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CDE85F7F-7884-4464-AB5B-5E528EF3C82F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

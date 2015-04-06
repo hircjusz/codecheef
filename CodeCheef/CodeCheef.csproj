@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="TaskInput\TravelingPlan.txt" />
+    <Content Include="TaskText\Matrix.txt" />
     <Content Include="TaskText\FrogJumpTime.txt" />
     <Content Include="TaskText\GasStationProblem.txt" />
     <Content Include="TaskText\TravelingPlan.txt" />
